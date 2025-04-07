@@ -1,2 +1,2 @@
 # Feature-Engineering
-Feature Engineering tutorial repository. Original source from Kaggal.
+Feature Engineering tutorial repository. Original source from Kaggle.
